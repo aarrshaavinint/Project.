@@ -23,7 +23,9 @@ Drawing is my way to relax and express ideas. I also enjoy learning new things, 
 ## Qualification / Education🏫
 
 -Elementary School: SDN Claket
+
 -Junior High School: SMP Santo Yusup Pacet
+
 -vocational schools: SMK Negeri 1 Dlanggu 
 
 ---
@@ -33,7 +35,9 @@ Drawing is my way to relax and express ideas. I also enjoy learning new things, 
 During my first year, I developed foundational skills in software development, including programming in Java and Python. 
 My projects include:
 -Developing applications using Java
+
 -Designing web user interfaces with Figma
+
 -Currently learning technical drawing
 
 ---
@@ -44,9 +48,3 @@ My projects include:
 
 ---
 
-<details>
-  <summary>Klik untuk melihat detail proyek</summary>
-  Ini adalah isi penjelasan proyek yang tersembunyi.
-</details>
-
-<align="center">Teks atau Badge</align>
