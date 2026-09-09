@@ -1,2 +1,2 @@
-# Project.
-first my project.
+# Get to know me.
+
