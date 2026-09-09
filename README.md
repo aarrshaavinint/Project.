@@ -48,3 +48,5 @@ My projects include:
   <summary>Klik untuk melihat detail proyek</summary>
   Ini adalah isi penjelasan proyek yang tersembunyi.
 </details>
+
+<align="center">Teks atau Badge</align>
