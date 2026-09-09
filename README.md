@@ -34,6 +34,7 @@ Drawing is my way to relax and express ideas. I also enjoy learning new things, 
 
 During my first year, I developed foundational skills in software development, including programming in Java and Python. 
 My projects include:
+
 -Developing applications using Java
 
 -Designing web user interfaces with Figma
