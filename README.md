@@ -43,3 +43,8 @@ My projects include:
 -My goal is to build a successful career in civil engineering/technology and contribute meaningfully to society.
 
 ---
+
+<details>
+  <summary>Klik untuk melihat detail proyek</summary>
+  Ini adalah isi penjelasan proyek yang tersembunyi.
+</details>
